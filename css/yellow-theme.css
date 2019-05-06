@@ -1,0 +1,37 @@
+/***** Defult Theme *****/
+
+.option-box .animated-gear,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+#scroll-up
+{
+    background-color: #adaa2c;
+}
+.navbar-inverse .navbar-brand span,
+.about h2 span,
+.testimonials span,
+.footer h3,
+.footer .copyright span,
+#scroll-up:hover,
+.statistics .stats:hover,
+.about-ceo .btn-primary:hover,
+.about-features .col-sm-4:hover
+{
+    color: #adaa2c;
+}
+.option-box .color-option,
+.testimonials .carousel-indicators li.active,
+#scroll-up:hover
+{
+    border: 3px solid #adaa2c;
+}
+.dropdown-menu
+{
+    border-top: 3px solid #adaa2c;
+}
+
+/***** Defult Theme *****/
